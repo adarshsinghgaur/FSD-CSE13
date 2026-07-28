@@ -11,5 +11,5 @@ task.once("greet", starts);
 task.on("greet", sayHi);
 
 task.emit("greet", "Adarsh Singh");
-task.emit("greet", "Ankur Singh");
-task.emit("greet", "Kushagra Singh");
+task.emit("greet", "Ankur Mishra");
+task.emit("greet", "Kushagra Jaiswal");
