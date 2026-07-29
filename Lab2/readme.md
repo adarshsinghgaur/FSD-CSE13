@@ -2,20 +2,21 @@
 
 ## Major task of FS Module
 
+- Reading and Writing Files
+  - readFile()
+  - writeFile()
+  - appendFile()
 
+- Directory Management
+  - mkdir()
+  - rmdir()
+  - rm()
+  - readdir()
 
-
-
-
-
-
-
-
-
-
-
-- lstat()
-- fstat()
+- Metadata/ Information
+  - stat()
+  - lstat()
+  - fstat()
 
 - Watching for Changes
   - watch()
