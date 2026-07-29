@@ -1,4 +1,4 @@
 C- create/Add/insert
-R- Retrieve
+R- Retrive
 U- Update/Edit
 D- Delete/Remove
